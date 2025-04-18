@@ -32,8 +32,6 @@ The goal of this analysis is to predict categorical outcomes in _Drosophila mela
 
   
 
-* * *
-
 ⚙️ Setup Instructions
 ---------------------
 
