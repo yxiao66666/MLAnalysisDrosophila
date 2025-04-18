@@ -1,4 +1,4 @@
-🧠 Machine Learning Analysis on \*Drosophila melanogaster\*
+🧠 Machine Learning Analysis on **Drosophila melanogaster**
 ===========================================================
 
 This project demonstrates the application of supervised machine learning techniques to analyze biological data related to _Drosophila melanogaster_ (fruit flies). The focus is on classifying biological outcomes based on various input features, using several machine learning models, and evaluating their performance.
