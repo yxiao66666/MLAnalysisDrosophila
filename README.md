@@ -1,4 +1,4 @@
-🧠 Machine Learning Analysis on **Drosophila melanogaster**
+🧠 Machine Learning Analysis on Drosophila melanogaster
 ===========================================================
 
 This project demonstrates the application of supervised machine learning techniques to analyze biological data related to _Drosophila melanogaster_ (fruit flies). The focus is on classifying biological outcomes based on various input features, using several machine learning models, and evaluating their performance.
@@ -30,14 +30,6 @@ The goal of this analysis is to predict categorical outcomes in _Drosophila mela
 
 * * *
 
-📂 Project Structure
---------------------
-
-  .
-  ├── MLAnalysisDrosophila.ipynb   # Main Jupyter notebook for analysis
-  ├── data/                        # (Optional) Directory for storing datasets
-  ├── requirements.txt             # Project dependencies
-  └── README.md                    # Project documentation
   
 
 * * *
@@ -89,14 +81,6 @@ The Jupyter notebook generates several types of output:
 
 * * *
 
-📝 Author
----------
-
-**Your Name**
-
-You can reach me at [your-email@example.com](mailto:your-email@example.com). Feel free to open an issue for any questions or suggestions.
-
-* * *
 
 📄 License
 ----------
